@@ -1,0 +1,10 @@
+git init
+git config  --list --local
+
+git config --global user.name "Sergio Ortiz"
+git config --global user.email "sergio.ortiz.alzate@gmail.com"
+
+
+git log
+
+echo -e "# demo git" >> README.md

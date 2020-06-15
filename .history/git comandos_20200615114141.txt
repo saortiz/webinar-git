@@ -1,0 +1,21 @@
+git init
+git config  --list --local
+
+git config --global user.name "Sergio Ortiz"
+git config --global user.email "sergio.ortiz.alzate@gmail.com"
+git config  --list --global
+
+git log
+
+echo -e "# demo git" >> README.md
+
+git add README.md
+git status
+git commit -m "commit inicial"
+
+modelo Driessen
+git branch
+git checkout
+git pull
+git merge
+git rebase
