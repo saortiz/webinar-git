@@ -21,6 +21,4 @@ git pull
 git merge
 
 bug para hacer push a repositorio:
-remote: Permission to saortiz/webinar-git.git denied to sergio-ortiz-alzate.
-fatal: unable to access 'https://github.com/saortiz/webinar-git.git/': The requested URL returned error: 403
 Panel de control\Cuentas de usuario\Administrador de credenciales (eliminar credencial de github)
